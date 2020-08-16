@@ -1,0 +1,10 @@
+Umbraco CMS:
+Name: 		Administrator
+User Name: 	groovejets@live.com
+Password: 	@96D@v1d96@
+
+
+SQL:
+U: umbraco
+P: George01
+C: server=GROOVEJETS\SQL2016;database=KiwiIntegrationAndDev;user id=umbraco;password='George01'
